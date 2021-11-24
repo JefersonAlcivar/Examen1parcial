@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Examen1parcial.Congelado_Por_agua">
+    <Position X="2.5" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Congelado_por_agua.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Examen1parcial.Congelado_por_aire">
+    <Position X="2.5" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAQAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Congelado_por_aire.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Examen1parcial.Congelado_Por_Nitrogeno">
+    <Position X="2.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Congelado_Por_Nitrogeno.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Examen1parcial.Producto_Congelado">
+    <Position X="7.25" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Producto_Congelado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
